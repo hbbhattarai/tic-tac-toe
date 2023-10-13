@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic-tac-toe
 Tic Tac Toe, also known as "X and O" or "Noughts and Crosses," is a classic and widely recognized two-player game. It is a simple yet engaging game that is often played on a grid of 3x3 squares, making it an ideal choice for quick fun or strategical thinking.
 
 
